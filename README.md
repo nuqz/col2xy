@@ -1,6 +1,6 @@
 # col2xy
 
-This is a simple package for converting colors from the Go standard library and colors specified by RGB color components as bytes into `x` and `y` coordinates on the CIE 1931 chromaticity diagram.
+This is a simple package for converting [colors](https://pkg.go.dev/image/color#Color) from the Go standard library and colors specified by RGB color components as bytes (within range [0-255]) into `x` and `y` coordinates on the CIE 1931 chromaticity diagram.
 
 ## Visual demo
 
