@@ -1,0 +1,3 @@
+bin
+cover*.*
+_*.go
